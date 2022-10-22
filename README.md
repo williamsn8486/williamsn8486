@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on showing some way to code evem if i'm not the best for it.
 - 📫 How to reach me: Sorry you can't.
-Note: this gif is not mine, all credits to the creator.
+- Note: this gif is not mine, all credits to the creator.
 <!---
 williamsn8486/williamsn8486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
